@@ -43,7 +43,7 @@ const Registration = () => {
 			<form onSubmit={handleRegistration}>
 				<div className="mb-3 row">
 					<label htmlFor="firstName" className="col-sm-2 col-form-label">
-						1er nombre
+						Nombres
 					</label>
 					<div className="col-sm-10">
 						<input
@@ -59,7 +59,7 @@ const Registration = () => {
 
 				<div className="mb-3 row">
 					<label htmlFor="lastName" className="col-sm-2 col-form-label">
-						Apellido
+						Apellidos
 					</label>
 					<div className="col-sm-10">
 						<input
