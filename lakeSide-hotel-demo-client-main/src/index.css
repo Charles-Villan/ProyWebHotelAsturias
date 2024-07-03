@@ -23,7 +23,7 @@ body {
   left: 0;
   right: 0;
   content: '';
-  background-color:rgb(169, 77, 123) ;
+  background-color:rgb(38, 80, 115) ;
   width: 0;
   margin: 0 auto;
   height: 4px;
@@ -67,7 +67,7 @@ body {
   }
 
   .hotel-color{
-    color: rgb(169, 77, 123);
+    color: rgb(22, 26, 85);
   }
   .room-price{
     color:darkgoldenrod;
